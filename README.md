@@ -1,13 +1,10 @@
 <div align="center">
 
-<img src="" width="100%" alt="Nandhini Sakthivel Banner">
+<img src="./Black-and-White-Modern-Business-LinkedIn-Banner.png" width="100%" alt="Nandhini Sakthivel Banner">
 
 </div>
 
 
-<p align="center">
-  Full-Stack Developer | Java | Spring Boot | React | AI
-</p>
 
 
 
