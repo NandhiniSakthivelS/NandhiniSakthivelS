@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Black-and-White-Modern-Business-LinkedIn-Banner.png" width="100%" alt="Nandhini Sakthivel Banner">
+<img src="./Black%20and%20White%20Modern%20Business%20LinkedIn%20Banner.png" width="100%" alt="Nandhini Sakthivel Banner">
 
 </div>
 
