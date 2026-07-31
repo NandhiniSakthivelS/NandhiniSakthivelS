@@ -69,6 +69,14 @@ using intelligent keyword analysis and provides real-time notifications.
 Academic management platform designed to simplify student records,
 attendance, courses, performance, fees, and institutional management.
 
+🏆 Unified Scholarship Portal
+
+A smart scholarship management platform that connects students with suitable opportunities through profile-based eligibility matching, application tracking, and centralized scholarship administration.
+
+💰 Expense Tracker
+
+A modern finance management application that enables users to record transactions, monitor spending patterns, analyze financial activity, and maintain better budgeting habits through interactive insights.
+
 
 
 <h4>🤖 What I Like Building</h4>
