@@ -27,7 +27,7 @@ and AI-powered technologies.
 
 
 
-🛠️ Tech Stack
+<h4>🛠️ Tech Stack</h4>
 
 💻 Languages  
 ☕ Java | 🟨 JavaScript | 🌐 HTML | 🎨 CSS
@@ -45,7 +45,7 @@ and AI-powered technologies.
 🧠 Google Gemini AI | 🐙 Git | 💻 GitHub | 📮 Postman
 
 
-🚀 Featured Projects
+<h4>🚀 Featured Projects</h4>
 
 🎓 GradePilot AI
 AI-powered academic management system that analyses student performance,
@@ -67,7 +67,7 @@ attendance, courses, performance, fees, and institutional management.
 
 
 
-🤖 What I Like Building
+<h4>🤖 What I Like Building</h4>
 
 🧠 AI-powered applications  
 📊 Data-driven dashboards  
@@ -77,15 +77,11 @@ attendance, courses, performance, fees, and institutional management.
 💡 Applications that solve real-world problems  
 
 
-🌱 Currently Exploring
-AI Integration • Advanced Spring Boot • System Design • Cloud Technologies
-
-
-🎯 My Development Journey
+<h4>🎯 My Development Journey</h4>
 Learn → Build → Break → Debug → Improve → Repeat 🔁
 
 
-🤝 Let's Connect
+<h4>🤝 Let's Connect</h4>
 💼 LinkedIn: https://www.linkedin.com/in/nandhinisakthivel01/
 
 📧 Email: nandinisakthivels@gmail.com  
