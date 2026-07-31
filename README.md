@@ -1,10 +1,19 @@
+<div align="center">
 
+<img src="" width="100%" alt="Nandhini Sakthivel Banner">
+
+</div>
+
+
+<p align="center">
+  Full-Stack Developer | Java | Spring Boot | React | AI
+</p>
 
 
 
 <div align="center">
 
-<h1>👋 Hi, I'm Nandhini Sakthivel </h1>
+
 
 <h4>Full-Stack Developer | Java | Spring Boot | React | AI
 
