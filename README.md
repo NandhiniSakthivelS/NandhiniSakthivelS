@@ -1,36 +1,22 @@
+<div align="center">
+  <h1>👋 Hi, I'm Nandhini Sakthivel</h1>
 
-<div align="center" style="background: linear-gradient(135deg, #0f172a, #1e293b); padding: 40px; border-radius: 15px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; box-shadow: 0 10px 25px rgba(0,0,0,0.5); max-width: 800px; margin: 20px auto; color: #ffffff; text-align: center; border: 1px solid rgba(255,255,255,0.1);">
-  
-  <h1 style="font-size: 4.5rem; margin-bottom: 5px; color: #ffffff; font-weight: 800; letter-spacing: -0.5px;">
-    Nandhini Sakthivel
-  </h1>
-  
- 
-  <hr style="border: 0; border-top: 0.5px solid rgba(255,255,255,0.1); width: 80%; margin: 0 auto 25px auto;">
-  
-  <p style="font-size: 1.3rem; line-height: 1.6; margin-bottom: 15px; color: #e2e8f0; font-weight: 500;">
+  <h4>
     ✨ Full-Stack Developer | Java | Spring Boot | React | AI ✨
-  </p>
-  
-  <p style="font-size: 1.1rem; font-style: italic; color: #94a3b8; margin-top: 0; letter-spacing: 0.5px;">
+    <br>
     🚀 Building ideas into practical software solutions 🛠️
-  </p>
-  
+  </h4>
+
 </div>
 
 
 
 
 
+### 👩‍💻 About Me
 
-
-
-
-<h4>👩‍💻 About Me</h4>
-
-I'm a Full-Stack Developer passionate about building practical applications
-that solve real-world problems.I enjoy working with Java, Spring Boot, React, databases, REST APIs,
-and AI-powered technologies.
+I'm a Full-Stack Developer passionate about building practical applications that solve real-world problems.
+I enjoy working with Java, Spring Boot, React, databases, REST APIs, and AI-powered technologies.
 
 💻 Interested in Full-Stack Development  
 🤖 Exploring AI & Generative AI  
@@ -39,7 +25,7 @@ and AI-powered technologies.
 
 
 
-<h4>🛠️ Tech Stack</h4>
+### 🛠️ Tech Stack
 
 💻 Languages  
 ☕ Java | 🟨 JavaScript | 🌐 HTML | 🎨 CSS
@@ -57,29 +43,24 @@ and AI-powered technologies.
 🧠 Google Gemini AI | 🐙 Git | 💻 GitHub | 📮 Postman
 
 
-<h4>🚀 Featured Projects</h4>
+
+### 🚀 Featured Projects
 
 🎓 GradePilot AI
 
-AI-powered academic management system that analyses student performance,
-generates personalised academic insights, and automatically delivers
-approved reports to parents.
+AI-powered academic management system that analyses student performance, generates personalised academic insights, and automatically delivers approved reports to parents.
 
 💼 GetYourFutureJob
 
-AI-powered Resume Analyzer and ATS Optimization platform that analyses
-resumes, compares them with job descriptions, identifies missing keywords,
-and provides improvement suggestions.
+AI-powered Resume Analyzer and ATS Optimization platform that analyses resumes, compares them with job descriptions, identifies missing keywords, and provides improvement suggestions.
 
 🔎 ReClaimX
 
-Smart campus lost-and-found platform that matches lost and found items
-using intelligent keyword analysis and provides real-time notifications.
+Smart campus lost-and-found platform that matches lost and found items using intelligent keyword analysis and provides real-time notifications.
 
 🎓 EduNexus
 
-Academic management platform designed to simplify student records,
-attendance, courses, performance, fees, and institutional management.
+Academic management platform designed to simplify student records, attendance, courses, performance, fees, and institutional management.
 
 🏆 Unified Scholarship Portal
 
@@ -91,7 +72,7 @@ A modern finance management application that enables users to record transaction
 
 
 
-<h4>🤖 What I Like Building</h4>
+### 🤖 What I Like Building
 
 🧠 AI-powered applications  
 📊 Data-driven dashboards  
@@ -101,19 +82,22 @@ A modern finance management application that enables users to record transaction
 💡 Applications that solve real-world problems  
 
 
-<h4>🎯 My Development Journey</h4>
+
+### 🎯 My Development Journey
+
 Learn → Build → Break → Debug → Improve → Repeat 🔁
 
 
-<h4>🤝 Let's Connect</h4>
-💼 LinkedIn: https://www.linkedin.com/in/nandhinisakthivel01/
+🤝 Let's Connect
 
-📧 Email: nandinisakthivels@gmail.com  
+💼 LinkedIn: [Nandhini Sakthivel](https://www.linkedin.com/in/nandhinisakthivel01/)
+
+📧 Email: [nandinisakthivels@gmail.com](mailto:nandinisakthivels@gmail.com)
+
+🌐 Portfolio:[This is NandhiniSakthivel](https://nandhinisakthivels.github.io/Portfolio/)
 
 
-<div align="center">
 
-⭐Thanks for visiting my profile!
-Feel free to explore my repositories 🚀
+<div align="center">⭐ Thanks for visiting my profile!
 
-</div>
+Feel free to explore my repositories 🚀</div>
