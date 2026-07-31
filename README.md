@@ -104,15 +104,13 @@ Learn → Build → Break → Debug → Improve → Repeat 🔁
 
 🤝 Let's Connect
 
-💼 LinkedIn: YOUR_LINKEDIN  
-📧 Email: YOUR_EMAIL  
-🐙 GitHub: NandhiniSakthivelS
+💼 LinkedIn: https://www.linkedin.com/in/nandhinisakthivel01/ 
+📧 Email: nandinisakthivels@gmail.com  
 
 
 <div align="center">
 
-⭐ Thanks for visiting my profile!
-
+⭐Thanks for visiting my profile!
 Feel free to explore my repositories 🚀
 
 </div>
