@@ -6,9 +6,9 @@
 
 <h1>👋 Hi, I'm Nandhini Sakthivel </h1>
 
-<h5>Full-Stack Developer | Java | Spring Boot | React | AI
+<h4>Full-Stack Developer | Java | Spring Boot | React | AI
 
-Building ideas into practical software solutions 🚀<h5>
+Building ideas into practical software solutions 🚀<h4>
 
 </div> 
 
