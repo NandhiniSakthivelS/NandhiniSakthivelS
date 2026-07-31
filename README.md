@@ -14,15 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div align="center">
 
-👋 Hi, I'm Nandhini Sakthivel
+<h1>👋 Hi, I'm Nandhini Sakthivel </h1>
 
-Full-Stack Developer | Java | Spring Boot | React | AI
+<h2>Full-Stack Developer | Java | Spring Boot | React | AI
 
-Building ideas into practical software solutions 🚀
+Building ideas into practical software solutions 🚀<h2>
 
-</div>
+</div> 
 
 
 
