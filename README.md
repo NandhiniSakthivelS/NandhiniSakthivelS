@@ -2,7 +2,7 @@
 <div align="center" style="background: linear-gradient(135deg, #0f172a, #1e293b); padding: 40px; border-radius: 15px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; box-shadow: 0 10px 25px rgba(0,0,0,0.5); max-width: 800px; margin: 20px auto; color: #ffffff; text-align: center; border: 1px solid rgba(255,255,255,0.1);">
   
   <h1 style="font-size: 3rem; margin-bottom: 5px; color: #ffffff; font-weight: 700; letter-spacing: -0.5px;">
-    Nandhini Sakthivel
+    <h1></h1>Nandhini Sakthivel</h1>
   </h1>
   
   <hr style="border: 0; border-top: 1px solid rgba(255,255,255,0.15); width: 80%; margin: 0 auto 25px auto;">
