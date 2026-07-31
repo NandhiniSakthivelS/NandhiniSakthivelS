@@ -29,9 +29,7 @@ Building ideas into practical software solutions 🚀
 👩‍💻 About Me
 
 I'm a Full-Stack Developer passionate about building practical applications
-that solve real-world problems.
-
-I enjoy working with Java, Spring Boot, React, databases, REST APIs,
+that solve real-world problems.I enjoy working with Java, Spring Boot, React, databases, REST APIs,
 and AI-powered technologies.
 
 💻 Interested in Full-Stack Development  
