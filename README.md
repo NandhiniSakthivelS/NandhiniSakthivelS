@@ -48,20 +48,24 @@ and AI-powered technologies.
 <h4>🚀 Featured Projects</h4>
 
 🎓 GradePilot AI
+
 AI-powered academic management system that analyses student performance,
 generates personalised academic insights, and automatically delivers
 approved reports to parents.
 
 💼 GetYourFutureJob
+
 AI-powered Resume Analyzer and ATS Optimization platform that analyses
 resumes, compares them with job descriptions, identifies missing keywords,
 and provides improvement suggestions.
 
 🔎 ReClaimX
+
 Smart campus lost-and-found platform that matches lost and found items
 using intelligent keyword analysis and provides real-time notifications.
 
 🎓 EduNexus
+
 Academic management platform designed to simplify student records,
 attendance, courses, performance, fees, and institutional management.
 
