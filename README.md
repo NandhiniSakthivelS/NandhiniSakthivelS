@@ -95,17 +95,6 @@ attendance, courses, performance, fees, and institutional management.
 💡 Applications that solve real-world problems  
 
 
-### 📈 GitHub Activity
-
-<div align="center">
-
-<img src="YOUR_GITHUB_STATS_IMAGE_URL" width="48%">
-
-<img src="YOUR_TOP_LANGUAGES_IMAGE_URL" width="48%">
-
-</div>
-
-
 🌱 Currently Exploring
 AI Integration • Advanced Spring Boot • System Design • Cloud Technologies
 
