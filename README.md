@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="./Black%20and%20White%20Modern%20Business%20LinkedIn%20Banner.png" width="900"
-     height="300" alt="Nandhini Sakthivel Banner">
+<img src="Ban img.png" width="500"
+     height="200" alt="Nandhini Sakthivel Banner">
 
 </div>
 
@@ -9,15 +9,6 @@
 
 
 
-<div align="center">
-
-
-
-<h4>Full-Stack Developer | Java | Spring Boot | React | AI
-
-Building ideas into practical software solutions 🚀<h4>
-
-</div> 
 
 
 
